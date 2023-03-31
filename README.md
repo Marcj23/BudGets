@@ -9,7 +9,7 @@ Budget Planner
 - Shortage of allowance
 - Redundant consumption of money
 
-## Related Sustainaable Development Goals (SDG)
+## Related Sustainable Development Goals (SDG)
 - 1 No Poverty
 - 3 Good Health and Well Being
 - 12 Responsible Consumption and Production
