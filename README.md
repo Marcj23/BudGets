@@ -14,9 +14,6 @@ Budget Planner
 - 3 Good Health and Well Being
 - 12 Responsible Consumption and Production
 
-
-## Related Sustainable Development Goals
-
 ## Objectives
 
 - Make students spend their money wisely
