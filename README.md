@@ -24,7 +24,6 @@ Budget Planner for students
 
 - Electric and water bill monitor
 - Groceries allocator and recorder
-- Recorder and reminder of rental fees
 - Miscellaneous fees recorder
 - Leisure Expenses tracker
 
